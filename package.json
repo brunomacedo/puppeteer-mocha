@@ -1,7 +1,7 @@
 {
   "name": "puppeteer-mocha",
   "version": "1.0.0",
-  "description": "",
+  "description": "Testing with Puppeteer, Chai and Mocha",
   "main": ".eslintrc.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha specs/**/*.spec.js --require babel-register --timeout 18000"

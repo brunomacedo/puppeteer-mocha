@@ -1,4 +1,4 @@
-# Testing with Puppeteer, mocha and chai
+# Testing with Puppeteer, Chai and Mocha
 
 ```bash
 npm install
