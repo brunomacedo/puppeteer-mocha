@@ -13,7 +13,7 @@ npm test
 
 Without *puppeteer.launch* options
 
-![Result](result.png?v=2)
+![Result](result2.png)
 
 
 ## Open browser
